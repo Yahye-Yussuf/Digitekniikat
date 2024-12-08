@@ -2,8 +2,8 @@
 "Henkilomaara":"5 henkiloa",
 "Osallistujat":[{"nimi":"Mikko Mallikas","titteli":"toimitusjohtaja"},
  {"nimi":"Anna Malli","titteli":"barista"},
- {"nimi": "Esa Merkki","titteli":"kondiittori"}
- {"nimi": "Esa Lisko","titteli":"kirjanpitäjä"}
+ {"nimi": "Esa Merkki","titteli":"kondiittori"},
+ {"nimi": "Esa Lisko","titteli":"kirjanpitäjä"},
  {"nimi": "Hanna Merkki","titteli":"Myyntijohtaja"}],
 "Yhteystiedot":{"osoite":"Ratapihantie 13, Helsinki",
  "Alkaa":"klo 14:00",
