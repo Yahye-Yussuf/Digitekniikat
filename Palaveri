@@ -1,11 +1,13 @@
-{"Aihe": "Yritys toiminnan laajentaminen",
-"Henkilomaara":"5 henkiloa",
-"Osallistujat":[{"nimi":"Mikko Mallikas","titteli":"toimitusjohtaja"},
- {"nimi":"Anna Malli","titteli":"barista"},
- {"nimi": "Esa Merkki","titteli":"kondiittori"},
- {"nimi": "Esa Lisko","titteli":"kirjanpitäjä"},
- {"nimi": "Hanna Merkki","titteli":"Myyntijohtaja"}],
-"Yhteystiedot":{"osoite":"Ratapihantie 13, Helsinki",
- "Alkaa":"klo 14:00",
- "Kesto": "30 minuttia"},}
-
+{
+    "palaverinAihe": "Yritys toiminnan laajentaminen",
+    "osallistujienLukumaara": 4,
+    "osallistujienNimet": [
+        "Anna Malli",
+        "Esa Merkki",
+        "Mikko Mallikas",
+        "Ossi Lisko"
+    ],
+    "palaverinPaikka": "Ratapihantie 13, Helsinki",
+    "palaverinAlkaminen": "14:00",
+    "palaverinKesto": "30 min"
+}
